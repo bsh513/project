@@ -21,7 +21,7 @@ import com.javateam.springMemberProject.service.MemberService;
 /**
  * 로그인 인증 
  * 
- * @author javateam
+ * @author javateam.
  */
 @Controller
 @RequestMapping("auth")
